@@ -1,0 +1,6 @@
+raw-data/
+trimmed/
+salmon/
+*.fastq.gz
+*.zip
+

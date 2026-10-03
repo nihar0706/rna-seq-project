@@ -1,0 +1,4 @@
+Sample	Top overrepresented sequence
+sample1_R1	6.0
+sample2_R1	6.25
+sample3_R1	5.555555555555555
