@@ -22,7 +22,7 @@ Data: three practice illumina FASTQ files (not a real experiment)
  Sample 2: 3200
  Sample 3: 1800
 ```
-           2.Adaptor containing reads:
+ 2.Adaptor containing reads:
   ```
   Sample 1: 125
   Sample 2: 480
