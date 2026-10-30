@@ -1,0 +1,6 @@
+raw-data/sample1_R1.fastq.gz
+10000
+raw-data/sample2_R1.fastq.gz
+12800
+raw-data/sample3_R1.fastq.gz
+7200

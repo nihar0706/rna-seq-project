@@ -1,2 +1,3 @@
-Sample	FastQC
-FastQC	0.12.1
+Sample	FastQC	fastp
+FastQC	0.12.1	
+fastp		1.3.7
