@@ -3,4 +3,6 @@ FastQC	all_sections	sample1_R1	/home/nihar_naveen/rna-seq-project/qc/sample1_R1_
 FastQC	all_sections	sample2_R1	/home/nihar_naveen/rna-seq-project/qc/sample2_R1_fastqc.zip
 FastQC	all_sections	sample3_R1	/home/nihar_naveen/rna-seq-project/qc/sample3_R1_fastqc.zip
 Snippy	snippy	multiqc	/home/nihar_naveen/rna-seq-project/qc/multiqc_data_1/multiqc.log
+fastp	all_sections	sample1_R1	/home/nihar_naveen/rna-seq-project/qc/sample1_fastp.json
 fastp	all_sections	sample2_R1	/home/nihar_naveen/rna-seq-project/qc/sample2_fastp.json
+fastp	all_sections	sample3_R1	/home/nihar_naveen/rna-seq-project/qc/sample3_fastp.json

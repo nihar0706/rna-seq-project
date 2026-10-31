@@ -1,2 +1,4 @@
 Sample	Passed Filter	Low Quality	Too Many N	Low Complexity	Too Short	Too Long
+sample1_R1	2500.0	0.0	0.0	nan	0.0	0.0
 sample2_R1	3200.0	0.0	0.0	nan	0.0	0.0
+sample3_R1	1800.0	0.0	0.0	nan	0.0	0.0
